@@ -1,0 +1,12 @@
+D:\Git Project\AdvertiesmentApp\Common\bin\Debug\net7.0\Common.deps.json
+D:\Git Project\AdvertiesmentApp\Common\bin\Debug\net7.0\Common.dll
+D:\Git Project\AdvertiesmentApp\Common\bin\Debug\net7.0\Common.pdb
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.dll
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\Common.pdb
+D:\Git Project\AdvertiesmentApp\Common\obj\Debug\net7.0\ref\Common.dll

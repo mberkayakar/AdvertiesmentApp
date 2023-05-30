@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AkarSorfwareWebsite_WebUI.props" />
+</Project>

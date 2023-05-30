@@ -1,0 +1,12 @@
+D:\Git Project\AdvertiesmentApp\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Git Project\AdvertiesmentApp\Entities\bin\Debug\net7.0\Entities.dll
+D:\Git Project\AdvertiesmentApp\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.dll
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Git Project\AdvertiesmentApp\Entities\obj\Debug\net7.0\ref\Entities.dll
